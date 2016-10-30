@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTCTEST</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_opciones">Opciones</string>
+    <string name="title_activity_materia1">Materia1</string>
+    <string name="title_activity_materia2">Materia2</string>
+    <string name="title_activity_materia3">Materia3</string>
+    <string name="title_activity_materia4">Materia4</string>
+    <string name="pregunta1A">1.-El padre de la administración es:</string>
+    <string name="pregunta2A">2.- Los tipos de empresas de acuerdo a su forma jurídica:</string>
+    <string name="pregunta3A">3.- ¿EL significado de  FODA? </string>
+    <string name="pregunta4A">4.- La funcione que componen la administración es:</string>
+    <string name="pregunta5A">5.- La administración para su aplicación se basa en: </string>
+    <string name="pregunta6A">6.- Los objetivos de acuerdo al tiempo son: </string>
+    <string name="pregunta7A">7.- Las ciencias fundamentales con las que la Administración se relaciona con: </string>
+    <string name="pregunta8A">8.- La empresas y las personas están sujetas a. </string>
+    <string name="pregunta9A">9.- De qué depende la administración mixta:</string>
+    <string name="pregunta10A">10.- Algunos de los principios de Henry Fayol son: </string>
+    <string name="pregunta1S">1.- Algunos sistemas operativos son: :</string>
+    <string name="pregunta2S">2.-  ¿Qué sistemas operativos están disponibles a través de Verizon Wireless?</string>
+    <string name="pregunta3S">3.- CUALES SON LAS PARTES DE UN SISTEMA OPERATIVO</string>
+    <string name="pregunta4S">4.-SISTEMAS OPERATIVOS MAS UNSADOS</string>
+    <string name="pregunta5S">5.-QUE GESTIONA EL SO:</string>
+    <string name="pregunta6S">6.-¿Cuál es el  SO para los  ordenadores?:</string>
+    <string name="pregunta7S">7.- ¿Cuál  es el tipo de SO  para los dispositivos móviles?:</string>
+    <string name="pregunta8S">8.-Característica del SO es:</string>
+    <string name="pregunta9S">9.-¿Que característica tiene Windows XP?</string>
+    <string name="pregunta10S">10.- Menciona algún derivado de UNIX</string>
+    <string name= "pregunta1U">1.-Menciona alguna característica del Factor Humano</string>       
+   <string name="pregunta2U">2.- La Ley de  Gestalt es:</string>
+   <string name="pregunta3U">3.- La  Cognición Humana es:</string>
+   <string name="pregunta4U">4.- El principio fundamental del diseño visual  es:</string>
+   <string name="pregunta5U">5.- El almacén de nuestra mente tiene una memoria a:</string>
+   <string name="pregunta6U">6.- Un atributo de la usabilidad es:</string>
+   <string name="pregunta7U">7.- El principal método de inspección  es:</string>
+   <string name="pregunta8U">8.- Uno de los  principios heurísticos de Nielsen es:</string>
+   <string name="pregunta9U">9.- Uno de los  principios heurísticos de Larry  Constantine es:</string>
+   <string name="pregunta10U">10.- El proceso metodológico consta de:</string>
+   <string name="pregunta1SF">1.- ¿Qué es un Prototipo?</string>
+   <string name="pregunta2SF">2.- ¿Qué es un Hardware?</string>
+   <string name="pregunta3SF">3.- ¿La  categoría del  ordenador es?</string>
+   <string name="pregunta4SF">4.- ¿Un requerimiento de software es?</string>
+   <string name="pregunta5SF">5.- ¿Cuáles son las etapas de la especificación de requerimientos Pressman?</string>
+   <string name="pregunta6SF">6.- ¿Las técnicas de recolección  de requerimientos?</string>
+   <string name="pregunta7SF">7.-  Los principios de los requerimientos son:</string>
+   <string name="pregunta8SF">8.-Que tipo de preguntas hay en la encuesta:</string>
+   <string name="pregunta9SF">9.-  Cuales son las etapas de LOUCOPOULOS</string>
+   <string name="pregunta10SF">10.- Cual de las 4 tareas es de Pressman:</string>
+                 
+    
+    
+    
+
+</resources>
